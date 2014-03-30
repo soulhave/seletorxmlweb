@@ -1,0 +1,6 @@
+
+csv/*
+bin/*
+.settings/*
+*.classpath
+*.project
